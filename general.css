@@ -1,13 +1,21 @@
 
 html {
-	background-color: #FFF;
-	border-color: gray;
+	background-color: #ff1;
+}
+
+body {
+	background-color: #fff;
+	border-color: black;
 	border-radius: 20px;
 }
 
 h1 {
 	size: 1em;
 	color: #000;
+}
+
+h2{
+	color: ;
 }
 
 em{
