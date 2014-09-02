@@ -1,6 +1,13 @@
+
+html {
+	background-color: #FFF;
+	border-color: gray;
+	border-radius: 20px;
+}
+
 h1 {
 	size: 1em;
-	color: orangered4;
+	color: #000;
 }
 
 em{
