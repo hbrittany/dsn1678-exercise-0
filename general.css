@@ -1,12 +1,18 @@
 h1 {
-	color: red;
+	size: 1em;
+	color: orangered4;
 }
 
 em{
 	font-style: italic;
 }
 
+strong {
+	font-style: bold;
+}
+
 blockquote {
 	background-color: #C0C0C0;
 
 }
+
